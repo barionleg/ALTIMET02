@@ -6,36 +6,22 @@ github_branches:
 github_description: 'High-accuracy barometric pressure and temperature sensing module
   with MS561101BA03. '
 github_repo: ALTIMET02
-github_url: https://github.com/mlab-modules/ALTIMET02
+github_url: https://github.com/barionleg/ALTIMET02
 homepage: true
 image_title: doc/gen/img/ALTIMET02-top.png
 images:
-- doc/gen/img/ALTIMET02-top.png
 - doc/gen/img/ALTIMET02-bottom.png
-- doc/gen/ALTIMET02-schematic.svg
-- doc/gen/img/ALTIMET02-top.svg
-- doc/gen/img/ALTIMET02-bottom.svg
-- hw/cam_profi/assembly/ALTIMET02-assembly_page_01.svg
+- doc/gen/img/ALTIMET02-top.png
 - hw/cam_profi/assembly/ALTIMET02-assembly_page_02.svg
+- hw/cam_profi/assembly/ALTIMET02-assembly_page_01.svg
+- doc/gen/ALTIMET02-schematic.svg
+- doc/gen/img/ALTIMET02-bottom.svg
+- doc/gen/img/ALTIMET02-top.svg
 issues: 0
 mark: 80
 mod_ibom: hw/cam_profi/ALTIMET02-ibom.html
 mod_scheme: doc/gen/ALTIMET02-schematic.pdf
 status: 2
-tags:
-- barometric-pressure
-- altimeter
-- barometer
-- i2c
-- spi
-- mlab
-- mlab-module
-- kicad
-- kicad-pcb
-- kicad-project
-- mlab-kicad
-- pcb
-- mlab-sensor
-- ms561101ba03
+tags: []
 title: ALTIMET02
-updated: '2023-10-18T17:21:55.900131+00:00'
+updated: '2025-07-27T06:45:45.087993+00:00'
